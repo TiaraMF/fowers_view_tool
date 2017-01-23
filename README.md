@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+FowersViewTool::Renderer.copyright 'Tia Fowers', 'All rights reserved'
+```
 
 ## Development
 
